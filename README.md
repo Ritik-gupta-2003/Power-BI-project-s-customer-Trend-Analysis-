@@ -54,3 +54,4 @@ Step 17: Create a new measure to calculate the total wait time:
 Total Wait Time = SUM(Call_Center_Data[Wait Time])
 ```
 
+![Image](https://github.com/user-attachments/assets/b3189043-bc79-474b-b8c3-1b138e915c05)
